@@ -1,0 +1,43 @@
+Alireza Sepahi — Corrected 1,000-Text X Campaign
+=================================================
+
+Total: 1,000
+Direct posts: 400
+Replies: 300
+Quote posts: 300
+
+Direct character range: 278–280
+Reply character range: 278–280
+Quote character range including full URL: 272–280
+
+Validation passed:
+- All 1,000 complete texts are exact-unique.
+- Every text contains exactly two approved mentions.
+- @marklevinshow is weighted more frequently.
+- Every text contains only #Alireza_Sepahi, #علیرضا_سپاهی and #StopExecutionsInIran.
+- #IranMassacre and #AliKhaniSquare are not used.
+- Abolfazl Sepahi is correctly identified as Alireza’s cousin, not brother.
+- All quotes use only the first 20-source list.
+- Replies use an exact 240/60 source split.
+- Quote text is followed by exactly two line breaks and the full visible source URL.
+- Every payload is at or below 280 literal characters.
+
+Approved mentions:
+@potus
+@NoaMagid
+@marklevinshow
+@LauraLoomer
+@AmnestyIran
+@FoxNews
+@NEWSMAX
+@DarlineGrahamSC
+@MariaBartiromo
+@SecRubio
+@NUFDIran
+@WhiteHouse
+@TheStoryFNC
+@seanhannity
+@drmaisato
+@UNWatch
+@amnesty
+@hrw
